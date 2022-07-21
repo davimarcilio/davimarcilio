@@ -20,13 +20,15 @@
   <a href="https://instagram.com/davi__marcilio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:davimarcilio.js@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-marcilio-89a694240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
  </div>
  <br>
  <hr>
+ <br>
 <h3>💻 Atualmente estou aprendendo Delphi 7, Banco de Dados e Modelagem de sistemas no curso técnico da minha escola, e estou aprendendo HTML, CSS, JavaScript, Bootstrap, Node.js, MongoDB, React, Jquery, Firebase</h3>
 <br>
 <hr>
 <br>
 <div align="center">
+<h1>🥇Certificado conclusão HTML CSS JAVASCRIPT</h1>
+<br>
 <img width="780em" src="https://storage.googleapis.com/download/storage/v1/b/certificado-f6de1.appspot.com/o/DVWBDMB20HT283116.png?generation=1658446780383736&alt=media"></div>
