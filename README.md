@@ -29,6 +29,6 @@
 <hr>
 <br>
 <div align="center">
-<h1>🥇Certificado conclusão HTML CSS JAVASCRIPT</h1>
+<h1>🥇Certificado conclusão HTML, CSS, JAVASCRIPT</h1>
 <br>
 <img width="780em" src="https://storage.googleapis.com/download/storage/v1/b/certificado-f6de1.appspot.com/o/DVWBDMB20HT283116.png?generation=1658446780383736&alt=media"></div>
