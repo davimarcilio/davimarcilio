@@ -29,6 +29,14 @@
 <hr>
 <br>
 <div align="center">
-<h1>🥇Certificado conclusão HTML, CSS, JAVASCRIPT</h1>
+<h1>🥇Certificado conclusão HTML, CSS, JavaScript</h1>
 <br>
-<img width="780em" src="https://storage.googleapis.com/download/storage/v1/b/certificado-f6de1.appspot.com/o/DVWBDMB20HT283116.png?generation=1658446780383736&alt=media"></div>
+<img width="780em" src="https://storage.googleapis.com/download/storage/v1/b/certificado-f6de1.appspot.com/o/DVWBDMB20HT283116.png?generation=1658446780383736&alt=media">
+</div>
+<br>
+<hr>
+<br>
+<div align="center">
+<h1>🥇Certificado conclusão FireBase, jQuery, Bootstrap</h1>
+<br>
+<img width="780em" src="https://storage.googleapis.com/download/storage/v1/b/certificado-f6de1.appspot.com/o/DVWBDMB20FI283116.png?generation=1660952734635894&alt=media"></div>
