@@ -38,7 +38,7 @@
 <h3>💻 Atualmente estou aprendendo Delphi 7, Banco de Dados e Modelagem de sistemas no curso técnico da minha escola, e estou aprendendo HTML, CSS, JavaScript, Bootstrap, Node.js, MongoDB, React, Jquery, Firebase</h3>
 <br>
 <hr>
-<br>
+<!-- <br>
 <div align="center">
 <h1>🥇Certificado conclusão HTML, CSS, JavaScript</h1>
 <br>
@@ -50,4 +50,4 @@
 <div align="center">
 <h1>🥇Certificado conclusão FireBase, jQuery, Bootstrap</h1>
 <br>
-<img width="780em" src="https://storage.googleapis.com/download/storage/v1/b/certificado-f6de1.appspot.com/o/DVWBDMB20FI283116.png?generation=1660952734635894&alt=media"></div>
+<img width="780em" src="https://storage.googleapis.com/download/storage/v1/b/certificado-f6de1.appspot.com/o/DVWBDMB20FI283116.png?generation=1660952734635894&alt=media"></div> -->
