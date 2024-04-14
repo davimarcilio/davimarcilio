@@ -1,4 +1,4 @@
-<h2> 👋 Olá, Meu nome é Davi sou um desenvolvedor Full-Stack, estou no terceiro ano do ensino médio, faço curso técnico de informática, Atualmente estou me especializando em React, Node, React Native. </h2>
+<h2> 👋 Olá, Meu nome é Davi sou um desenvolvedor Frontend, Backend, DevOps, Mobile </h2>
 <br>
 <hr>
 <br>
@@ -22,8 +22,12 @@
  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+ <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+ <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+ <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+ <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
+ <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
           
                           
           
@@ -39,8 +43,16 @@
  <br>
  <hr>
  <br>
-<h3>💻 Atualmente minhas stacks são: JavaScript, TypeScript, Node, React, MongoDB, Firebase, MySql e Suas Diversas bibliotecas!</h3>
+<div align="center">
+
+![Stats of my job](https://codetime-analytics.vercel.app/graph)
+
+ <img align="center" width="200" src="https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24666%26project%3D%26in=0" />
+
+ </div>
+
 <br>
+
 <hr>
 <!-- <br>
 <div align="center">
